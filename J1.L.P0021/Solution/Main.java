@@ -13,7 +13,7 @@ class Main implements mainInterface {
 				case "1":
 					create();
 					break;
-				case "2":
+				case "2":	
 					Find_And_Sort();
 					break;
 				case "3":
